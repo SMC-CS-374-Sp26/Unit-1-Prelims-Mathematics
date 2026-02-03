@@ -1,7 +1,7 @@
 # Unit 1: Preliminaries, Mathematics
 
 Topics:
-- Preliminaries [PPT](CS-374-Syllabus.pptx)
+- Preliminaries [PPT](CS-374-Syllabus.pptx) [PDF](CS-374-Syllabus.pdf)
 - [Discrete math problems](Discrete-math-problems.md)
 - LAB: [Pump up the jam](Pump-up-the-jam.md)
 - Asymptotics problems (to come)
