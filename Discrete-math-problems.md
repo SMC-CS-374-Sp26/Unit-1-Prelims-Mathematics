@@ -11,7 +11,7 @@
     1. 2 is even, its square is 4, which is even. 600 is even, and its square is 360,000, which is also even. Thus the statement is proved.
     2. Consider an even number, $2k$, where $k$ is some integer. Its square is $(2k)^2 = 4k^2 = 2(2k^2)$, which is clearly even. Thus the statement is true.
     3. Suppose an even number, $2k$, has an odd square, $2j+1$, where $j$ and $k$ are both integers. Then $(2k)^2 = 2j+1$, and $j = \frac{4k^2 - 1}{2},$. However, the numerator cannot be even, so the fraction is not reducible, and thus $j$ cannot be an integer.   Thus the statement is true.
-    4. Suppose a number $a$ has an odd square, $a^2 = 2k+1$, where $k$ is an integer. Isolating for $k$, we find $k = \frac{a^2 - 1}{2}$. The only way $k$ can still be an integer is if a^2 is odd, thus 
+    4. Suppose a number $a$ has an odd square, $a^2 = 2k+1$, where $k$ is an integer. Isolating for $k$, we find $k = \frac{a^2 - 1}{2}$. The only way $k$ can still be an integer is if a^2 is odd. Thus the statement is true. 
 
 ### Prove directly
 
@@ -48,7 +48,7 @@
 ### Mathemagic
 
 20. Think of a 3-digit number where all digits are the same (e.g. 111, 222). Add up its digits (e.g. 1+1+1), then divide your original number by this value. Prove the answer is 37.
-21. Think of any 3-digit number (e.g. 456). Write it twice so it becomes a 6-digit number (e.g. 456456). Divide the number by 7, then 11, then 13. Prove that the result will always be your original number. \emph{(Hint: the order of the division is unimportant!)}
+21. Think of any 3-digit number (e.g. 456). Write it twice so it becomes a 6-digit number (e.g. 456456). Divide the number by 7, then 11, then 13. Prove that the result will always be your original number. (Hint: the order of the division is unimportant!)
 
 ## Combinatorics
 
