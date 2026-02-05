@@ -76,6 +76,29 @@
 
 31. There are 28 students in this class. Each of you received an A, B, C, or D on a recent test. Show that there are at least 7 of you who received the same grade.
 
+## Bringing it all together: Logical Thinking
+
+### Instructions
+
+For each of the following 2 problems, you should first identify:
+
+- What details are clearly important for the problem?
+- Are there any unimportant details?
+- What has not been stated, but affects a clear approach?
+
+Then approach the problem with those questions in mind.
+
+### Problems
+
+32. _Explanation:_ “[The Twelve Days of Christmas](https://www.youtube.com/watch?v=1UHmQANFtNs)” is a popular song that implies Christmas (and present-giving from the singer’s “true love”) lasts an aforementioned twelve days.
+
+_Question 1_: How many presents did “my true love” send to me in the 12 days?
+
+_Question 2_: Assume that Christmas has $n$ days. Exactly how many presents did “my true love” send to me?
+
+33. You are given ten bags of gold coins. Nine bags contain coins that each weigh 10 grams. One bag contains all false coins that weigh 1 gram less. You must identify this bag in just one weighing. Assume you have a digital scale. How do you find the bag with false coins?
+
+
 ## Write your own
 
-32. Choose a category of problem and write your own. Then solve it.
+33. Choose a category of problem and write your own. Then solve it.
