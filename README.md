@@ -2,6 +2,7 @@
 
 Topics:
 - Preliminaries [PPT](CS-374-Syllabus.pptx) [PDF](CS-374-Syllabus.pdf)
+- Math PPT [PPT](CS-374-math.pptx) [PDF](CS-374-math.pdf)
 - [Discrete math problems](Discrete-math-problems.md)
 - LAB: [Pump up the jam](Pump-up-the-jam.md)
 - [Asymptotics problems](Asymptotics-problems.md)
